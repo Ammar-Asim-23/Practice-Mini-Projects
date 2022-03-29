@@ -1,0 +1,25 @@
+[['Which of these is true about the sleep of zebras?','A All of these','B They sleep standing up.','C They would fall asleep every 5 to 6 hours.','D They need more than 12 hours of sleep a day']
+,['#A farmer had 12 sheep and 3 cows.All of the animals except 9 sheep died.How many animals did he have left in his farm?','A 5 cows and 1 sheep','B 9 sheep','C 2 cows','D none']
+,['#I dont speak, I cannot hear, but I always tell the truth.','A The watch','B Fish','C The Mirror','D Old granny']
+,['#How does this proverb continue: The squeaking wheel gets ...','A The rust','B Removed','C The broken','D The grease']
+,['#An old man was looking at a photograph of a young man.Somebody asked him who it was. The mans answer was the following: Brothers and sisters, I have none. But that mans father is my fathers son. Who was in the photograph?','A His cousin','B His grandfather','C His son','D His nephew']
+,['#The single difference between the two cities A and B was that the citizens of A always said the truth, while the citizens of B never did.Once, a man who had never been to either city arrived at one of them.Which question should the man have asked in order to identify the city he was in?Have in mind, that people from A often visited their friends in B and vice versa.','A How old are you?','B Are you married?','C Is this city A ?','D Are you a citizen of this city?']
+,['#What number comes next in the row - 31, 28, 31, 30, ?','A 32','B 31','C 30','D 29']
+,['#If you were running a race and passed the person in second place, what place would you be in?','A 1st','B 2nd','C 3rd','D Out of the race']
+,['#What number comes next: 1, 11, 21, 1211, 111221, 312211, 13112221?','A 131122211211','B 11221311','C 31221113112221','D 1113213211']
+,['#A contestant on a TV show had to answer 26 questions. For each correct answer he received 8 points while a wrong answer penalized him 5 points. How many answers did the man answer correctly bearing in mindthat he eventually had 0 points?','A 12','B 8','C 16','D 10']
+,['#A row consists of 10 letters. The first six are - Z, O, T, T, F, F.  Which is the tenth letter?','A T','B E','C S','D N']
+,['#You have a square and a circle and the perimeter of the square is equal to the circumference of the circle.Which of the two figures covers a bigger area?','A The square','B The circle','C No conclusion can be drawn from the given information.','D Both cover the same are.']
+,['#12 candles were alight. The wind blew out 5 of them. How many candles were left?','A 0','B 7','C 12','D 5']
+,['#A team of two horses ran for 3 miles. How many miles did each of the horses run?','A 1.5','B 0','C 3','D 6']
+,['#Nine passengers carried with them enough food for five days. Several other passengers joined the first groupand they all shared the same food which was now enough for three days. How many passengers joined the first group?','A 7','B 8','C 6','D 5']
+,['#A pole is 20 m high. An ant is climbing it as follows - every day she ascends 5 m and every night she descends 4 m. In how many days will the ant be on the top of the post?','A 16','B 19','C 15','D 20']
+,['#A butcher had to stick a total number of 50 sheep in a week. Every day he sticked an equal number of sheep and managed to fulfill the task. How many sheep did he kill per day?','A 10','B 4','C 8','D 7']
+,['#In a basket there are three sorts of apples. How many apples do you have to  take from the basket to make sure you have at least 2 apples of the same sort?','A 5','B 4','C 3','D 2']
+,['#Four glasses and a jug weigh as mush  as 17 iron balls do. The jug weighs as much as a glass and 7 balls.How many balls does the jug weigh?','A 9','B 8','C 10','D 5']]
+
+_
+A. 
+B. 
+C. 
+D. 
