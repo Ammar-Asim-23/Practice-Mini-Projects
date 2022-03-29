@@ -6,14 +6,8 @@ class Fraction():
     def __str__(self):
          return "{}/{}".format(self.__num,self.__den)
 
-
-    def  simplify(num,den):
-        if den != 0:
-            self.__num=self.__num%self.__den
-            self.den=self.__num//self.__den
-        else:
-             print(infinite)
-          
+    def decimal(self):
+        return self.__num/self.__den
         
     def __add__(self,other):
         temp_num=self.__num*other.__den + other.__num*self.__den
@@ -23,18 +17,18 @@ class Fraction():
 
     def __sub__(self,other):
         temp_num=self.__num*other.__den - other.__num*self.__den
-        temp_den=self.den*other.den
+        temp_den=self.__den*other.__den
         simplify(temp_num,temp_den)
         return "{}/{}".format(temp_num,temp_den)
 
     def __mul__(self,other):
-        temp_num=self.num*other.num
-        temp_den=self.den*other.den
+        temp_num=self.__num*other.__num
+        temp_den=self.__den*other.__den
         simplify(temp_num,temp_den)
         return "{}/{}".format(temp_num,temp_den)
 
     def __truediv__(self,other):
-        temp_num=self.num*other.den
-        temp_den=self.den*other.num
+        temp_num=self.__num*other.__den
+        temp_den=self.__den*other.__num
         simplify(temp_num,temp_den)
         return "{}/{}".format(temp_num,temp_den)   
