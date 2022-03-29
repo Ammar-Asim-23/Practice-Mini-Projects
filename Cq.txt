@@ -1,0 +1,51 @@
+Q. Name of the screen that recognizes touch input is:  
+(a) Recog screen  
+(b) Point Screen  
+(c) Touch Screen  
+(d) Android Screen
+_Q. Computer Moniter is also known as :  
+(a) DVU  
+(b) UVD  
+(c) VDU  
+(d) CCTV
+_Q. Identify the device through which data and instructions are entered into a computer:  
+(a) Software  
+(b) Output device  
+(c) Input device  
+(d) Memory
+_Q. Arrange in ascending order the units of memory TB, KB, GB, MB:   
+(a) TB>MB>GB>KB  
+(b) MB>GB>TB>KB  
+(c) TB>GB>MB>KB  
+(d) GB>MB>KB>TB
+_Q. Which one of these stores more data than a DVD ?  
+(a) CD Rom  
+(b) Floppy  
+(c) Blue Ray Disk  
+(d) Red Ray Disk
+_Q. The output shown on the computer monitor is called:  
+(a) VDU  
+(b) Hard Copy  
+(c) Soft Copy  
+(d) Screen Copy
+_Q. Eight Bits make up a:  
+(a) byte  
+(b) megabyte  
+(c) kilobyte  
+(d) None
+_Q. Which one is the result of the output given by a computer:  
+(a) Data  
+(b) Instruction  
+(c) Information  
+(d)Excursion
+_Q. Which one of these also known as read/write memory ?  
+(a) ROM  
+(b) RAM  
+(c) DVD  
+(d) Hard Disk
+_Q. The printed output from a com
+puter is called:  
+(a) Copy  
+(b) Soft Copy  
+(c) Hard Copy  
+(d) Paper
